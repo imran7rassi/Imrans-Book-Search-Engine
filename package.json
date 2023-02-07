@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "if-env": "^1.0.4",
-    "node": "^19.6.0"
+    "node": "^9.4.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
