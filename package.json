@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Description",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -12,11 +12,19 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran7rassi/Imrans-Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imran7rassi/Imrans-Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/imran7rassi/Imrans-Book-Search-Engine#readme"
 }
