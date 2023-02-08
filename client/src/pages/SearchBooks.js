@@ -27,7 +27,7 @@ const SearchBooks = () => {
   // create state to hold saved bookId values
   const [savedBookIds, setSavedBookIds] = useState(getSavedBookIds());
 
-  const [saveBook, { error }] = useMutation(SAVE_BOOK, {
+  const [saveBook, ] = useMutation(SAVE_BOOK, {
     // The below block ensures that as soon as the user saves a book, it appears right away in the saved books page
     update(cache, { data: { saveBook } }) {
       try {
