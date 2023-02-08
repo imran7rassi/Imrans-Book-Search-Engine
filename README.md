@@ -1,42 +1,81 @@
-# Book-Search-Engine
+# mern-book-search - July 12th 2022 - Carlos Sabbah
 
-Google Books API search engine built in MERN Stack.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Github : https://github.com/sylviaprabudy/book-search-engine
-### Website : https://book-search-99.herokuapp.com/
+## Table of Contents
 
+- [Description](#Description)
+- [Installation](#Installation)
+- [Local Usage](#Local-Usage)
+- [Links](#Links)
+- [Questions](#Questions)
+- [License](#License)
+
+##
 
 ## Description
-Google Books API search engine built in MERN Stack. Other than searching for books, users can sign up and login their account to save their favorive books.
 
+This MERN stack application is a multi page book search engine that allows users to search up books, view their detailed information and save them (which they can view in the saved books page). Using Apollo Client, MongoDB and Mongoose, all transactions made are stored accordingly with high level authentication via tokens and JTW-decode to allow for secure access and unique data specific to each users.
 
-## User Story
+## Installation
+
+1. To install application, clone the main project via the HTTP or SSH link on github.
+
 ```
-- AS AN avid reader
-- I WANT to search for new books to read
-- SO THAT I can keep a list of books to purchase
+git clone
 ```
 
-## Usage
-- Application allows users to search books with keywords.
-- Users are able to create an account when providing user name, email and password.
-- Logged in users will are able to save their favorite books as well as delete them.
-- Saved books are stored in their account, so next time they login, the books are still in their account to be viewed. 
+2. Once cloned, open the project folder in your text editor and run the following command in terminal to install all dependencies.
+   Important note - You will need to run the below command in the 'root', 'client' and 'server' directory paths.
 
+```
+npm install
+```
 
-## Screenshots
-![](client/src/assets/img/signup.png)
-![](client/src/assets/img/search_books.png)
-![](client/src/assets/img/saved_books.png)
+## Local-Usage
 
+To view the application in your local browser, cd into the root directory path and run this in terminal:
 
-## Technologies Use
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://reactjs.org/">React.js</a></p>
-<p><a href="https://nodejs.org/">Node.js</a></p>
+```
+npm run develop
+```
 
+## Links
 
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
-- - -
+[Link to live application](https://mern-book-search.vercel.app/)
+
+## Built With
+
+- React
+- Apollo Client
+- GraphQL
+- Json web token
+- Jwt-decode
+- MongoDB
+- Mongoose
+- React-bootstrap
+- Bootstrap
+- Express
+- Node.js
+- Bcrypt
+- Faker
+- localStorage
+- JSX / JavaScript
+- HTML
+- CSS
+
+## Questions
+
+[My portfolio](https://csabbah.github.io/Carlos-Sabbah-portfolio/)
+
+To view my other repositories:
+[Github](https://github.com/csabbah)
+
+If you have questions about this application or general inquiry, please reach out to me via email: carlossabbah@hotmail.com
+
+## License
+
+This project is covered under the MIT License.
+
+<img width="1640" alt="Previe" src="https://user-images.githubusercontent.com/91699101/178625203-986006e4-2c55-4518-963d-64d21ca73488.png">
+
