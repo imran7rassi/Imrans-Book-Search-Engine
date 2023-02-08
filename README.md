@@ -1,17 +1,4 @@
-# mern-book-search - July 12th 2022 - Carlos Sabbah
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Table of Contents
-
-- [Description](#Description)
-- [Installation](#Installation)
-- [Local Usage](#Local-Usage)
-- [Links](#Links)
-- [Questions](#Questions)
-- [License](#License)
-
-##
+# Imrans-Book-Search-Engine
 
 ## Description
 
@@ -42,7 +29,7 @@ npm run develop
 
 ## Links
 
-[Link to live application](https://mern-book-search.vercel.app/)
+[Link to live application]()
 
 ## Built With
 
@@ -66,16 +53,8 @@ npm run develop
 
 ## Questions
 
-[My portfolio](https://csabbah.github.io/Carlos-Sabbah-portfolio/)
-
-To view my other repositories:
-[Github](https://github.com/csabbah)
-
-If you have questions about this application or general inquiry, please reach out to me via email: carlossabbah@hotmail.com
 
 ## License
 
 This project is covered under the MIT License.
-
-<img width="1640" alt="Previe" src="https://user-images.githubusercontent.com/91699101/178625203-986006e4-2c55-4518-963d-64d21ca73488.png">
 
