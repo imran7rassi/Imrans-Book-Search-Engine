@@ -30,7 +30,7 @@ npm install
 
 ## Usage
 
-[<img src="./Assets/demo.gif" width="60%" height="40%" />]
+<img src="./Assets/demo.gif" width="60%" height="40%" />
 
 To view the application in your local browser, cd into the root directory path and run this in terminal:
 
@@ -40,8 +40,8 @@ npm run develop
 [Link to live application](https://murmuring-wave-99733.herokuapp.com/)
 
 
-[<img src="./Assets/1.jpg" width="40%" height="40%" />] [<img src="./Assets/2.jpg" width="40%" height="40%" />] 
-[<img src="./Assets/3.jpg" width="40%" height="40%" />] [<img src="./Assets/4.jpg" width="40%" height="40%" />] 
+<img src="./Assets/1.jpg" width="40%" height="40%" /> <img src="./Assets/2.jpg" width="40%" height="40%" />
+<img src="./Assets/3.jpg" width="40%" height="40%" /> <img src="./Assets/4.jpg" width="40%" height="40%" /> 
 
 
 ## License
